@@ -13,4 +13,8 @@ I found this programming exercise to be quite interesting, especially in light o
 
 * Lab 7, Part 1
 In addition to strengthening my comprehension of date-related computations, this experience gave me insightful information about how to apply these algorithms in real-world settings, expanding my awareness of programming and algorithmic problem-solving.
+
+*Lab 11, Part 1
+I adored how this code includes a class that holds all of the basic information about a pizza, such as its ID, price, and caloric content. The PricePer2000Calories() function computes the price per 2000 calories and returns a figure that accounts for a unique scenario with calorie-free pizzas. This code suggests a modular, object-oriented approach to expressing and preserving pizza-related data.
+
   

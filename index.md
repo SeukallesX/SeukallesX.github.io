@@ -1,6 +1,6 @@
 # Mariel Angelene Bravo's Portfolio
 
-This is my home page! My name is Mariel Angelene Bravo and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science
+This is my home page! My name is Mariel Angelene Bravo and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science (Tech Entrepreneurship)
 
 ## Favorite COMP SCI LABS
 
@@ -16,5 +16,16 @@ In addition to strengthening my comprehension of date-related computations, this
 
 *Lab 11, Part 1
 I adored how this code includes a class that holds all of the basic information about a pizza, such as its ID, price, and caloric content. The PricePer2000Calories() function computes the price per 2000 calories and returns a figure that accounts for a unique scenario with calorie-free pizzas. This code suggests a modular, object-oriented approach to expressing and preserving pizza-related data.
+
+Goal in Progress:
+*Expanding/Building Technology Inventions (X) 
+*Business Entrepreneurship
+*Marketing
+*Graphic Designing
+*3D Animation
+*Cryptocurrency (Four X's)
+*Investing
+
+ 
 
   
